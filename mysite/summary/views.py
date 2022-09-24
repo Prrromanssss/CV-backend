@@ -1,6 +1,6 @@
-from django.shortcuts import render
-from django.http import HttpResponse
+from django.views.generic.base import TemplateView
 
 
-def index(request):
-    return HttpResponse('<h1>Hello Yandex</h1>')
+class HomePageView(TemplateView):
+    template_name = "summary/index.html"
+
