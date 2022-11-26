@@ -9,7 +9,7 @@
 Для его __запуска__ нам необходимо:
 * склонировать проект из гитхаба
 ```commandline
-git clone https://github.com/Prrromanssss/YandexIntensive_django.git
+git clone https://github.com/Prrromanssss/CV-django.git
 ```
 * установить все необходимые зависимости
 ```commandline
