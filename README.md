@@ -1,7 +1,9 @@
 # Сайт-резюме на Django
 
+![flake8 test](https://github.com/Prrromanssss/CV-django/actions/workflows/python-package.yml/badge.svg)
 
-Данный проект представляет из себя сайт-резюме, написанный на фреймворке Django.
+
+Данный проект представляет из себя творческое задание для поступления на [Django интенсивы от Академия](https://academy.yandex.ru/intensive/django), а именно сайт-резюме, написанный на фреймворке Django.
 На нем я рассказал о своих увлечениях, опыте разработки.
 
 [Подробнее о фреймворке Django](https://www.djangoproject.com/)
