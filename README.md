@@ -1,4 +1,4 @@
-# Сайт-резюме на Django
+# CV on Django
 
 ![flake8 test](https://github.com/Prrromanssss/CV-django/actions/workflows/python-package.yml/badge.svg)
 
